@@ -1,42 +1,37 @@
 [
   {
+    "date": "2025-10-25",
     "word": "MONEY",
     "hint": "Currency used for buying things"
   },
   {
+    "date": "2025-10-26",
     "word": "APPLE",
     "hint": "A common fruit or tech company"
   },
   {
+    "date": "2025-10-27",
     "word": "HOUSE",
     "hint": "A building where people live"
   },
   {
+    "date": "2025-10-28",
     "word": "RIVER",
     "hint": "A natural flowing watercourse"
   },
   {
+    "date": "2025-10-29",
     "word": "BREAD",
     "hint": "A baked food made from flour"
   },
   {
+    "date": "2025-10-30",
     "word": "STARS",
     "hint": "Celestial bodies visible at night"
   },
   {
+    "date": "2025-10-31",
     "word": "CLOUD",
     "hint": "A visible mass of water vapor in the sky"
-  },
-  {
-    "word": "FLOOR",
-    "hint": "The lower surface of a room"
-  },
-  {
-    "word": "TRAIN",
-    "hint": "A vehicle that runs on rails"
-  },
-  {
-    "word": "BIRDS",
-    "hint": "Feathered animals that can fly"
   }
 ]
