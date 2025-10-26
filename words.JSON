@@ -1,42 +1,162 @@
 [
   {
+    "date": "2025-10-05",
+    "word": "FLAME",
+    "hint": "A restless flicker in the void"
+  },
+  {
+    "date": "2025-10-06",
+    "word": "STONE",
+    "hint": "Eternal witness to time’s passage"
+  },
+  {
+    "date": "2025-10-07",
+    "word": "WINDY",
+    "hint": "A restless spirit stirring the air"
+  },
+  {
+    "date": "2025-10-08",
+    "word": "GRASS",
+    "hint": "Whispers beneath the traveler’s tread"
+  },
+  {
+    "date": "2025-10-09",
+    "word": "SMILE",
+    "hint": "A fleeting curve of silent joy"
+  },
+  {
+    "date": "2025-10-10",
+    "word": "OCEAN",
+    "hint": "Endless heart of untamed depths"
+  },
+  {
+    "date": "2025-10-11",
+    "word": "FROST",
+    "hint": "Winter’s sigh on morning’s edge"
+  },
+  {
+    "date": "2025-10-12",
+    "word": "CHAIR",
+    "hint": "Silent sentinel of repose"
+  },
+  {
+    "date": "2025-10-13",
+    "word": "SHINE",
+    "hint": "Gleam stolen from distant realms"
+  },
+  {
+    "date": "2025-10-14",
+    "word": "GHOST",
+    "hint": "Echo lingering beyond the veil"
+  },
+  {
+    "date": "2025-10-15",
+    "word": "SPARK",
+    "hint": "Brief herald of unseen fires"
+  },
+  {
+    "date": "2025-10-16",
+    "word": "CROWD",
+    "hint": "Mosaic of fleeting human tides"
+  },
+  {
+    "date": "2025-10-17",
+    "word": "SWORD",
+    "hint": "Gleaming oath of ancient strife"
+  },
+  {
+    "date": "2025-10-18",
+    "word": "DREAM",
+    "hint": "Vapor woven in night’s embrace"
+  },
+  {
+    "date": "2025-10-19",
+    "word": "LEMON",
+    "hint": "Sharp kiss of sun-warmed boughs"
+  },
+  {
+    "date": "2025-10-20",
+    "word": "FAITH",
+    "hint": "Whispered anchor in the unseen"
+  },
+  {
+    "date": "2025-10-21",
+    "word": "TOWER",
+    "hint": "Spire piercing the sky’s silence"
+  },
+  {
+    "date": "2025-10-22",
+    "word": "SHORE",
+    "hint": "Threshold where tides murmur secrets"
+  },
+  {
+    "date": "2025-10-23",
+    "word": "MOUSE",
+    "hint": "Furtive shadow in quiet realms"
+  },
+  {
     "date": "2025-10-24",
     "word": "MONEY",
-    "hint": "Currency used for buying things"
+    "hint": "Glimmer fueling mortal desires"
   },
   {
     "date": "2025-10-25",
     "word": "LIGHT",
-    "hint": "Helps illuminate the world"
+    "hint": "Soft pulse of dawn’s awakening"
   },
   {
     "date": "2025-10-26",
     "word": "APPLE",
-    "hint": "A common fruit or tech company"
+    "hint": "Emblem of orchard or ambition"
   },
   {
     "date": "2025-10-27",
     "word": "HOUSE",
-    "hint": "A building where people live"
+    "hint": "Sanctuary of woven lives"
   },
   {
     "date": "2025-10-28",
     "word": "RIVER",
-    "hint": "A natural flowing watercourse"
+    "hint": "Serpent tracing earth’s ancient veins"
   },
   {
     "date": "2025-10-29",
     "word": "BREAD",
-    "hint": "A baked food made from flour"
+    "hint": "Humble gift of earth’s toil"
   },
   {
     "date": "2025-10-30",
     "word": "STARS",
-    "hint": "Celestial bodies visible at night"
+    "hint": "Eternal sparks in night’s tapestry"
   },
   {
     "date": "2025-10-31",
     "word": "CLOUD",
-    "hint": "A visible mass of water vapor in the sky"
+    "hint": "Veil adrift in boundless blue"
+  },
+  {
+    "date": "2025-11-01",
+    "word": "FLOOR",
+    "hint": "Steadfast plane beneath life’s dance"
+  },
+  {
+    "date": "2025-11-02",
+    "word": "BLOOM",
+    "hint": "Brief flourish of nature’s breath"
+  },
+  {
+    "date": "2025-11-03",
+    "word": "TRUTH",
+    "hint": "Elusive beacon in shadowed minds"
+  },
+  {
+    "date": "2025-11-04",
+    "word": "GLASS",
+    "hint": "Fragile lens of captured light"
+  },
+  {
+    "date": "2025-11-05",
+    "word": "SHADE",
+    "hint": "Gentle cloak against the sun’s gaze"
   }
 ]
