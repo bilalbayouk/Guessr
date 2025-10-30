@@ -1,0 +1,96 @@
+[
+  {
+    "date": "2025-10-30",
+    "centerLetter": "A",
+    "outerLetters": ["P", "I", "C", "K", "N", "Y"],
+    "validWords": [
+      "pain", "pian", "pack", "pica", "pacy", "yack",
+      "knap", "nipa", "kina", "naik", "pyin", "panic", "capon",
+      "acini", "pavan", "pavin", "apian", "nippy", "kappa",
+      "kyack", "piancy", "panick", "catnip", "canopy",
+      "yapping", "napping", "capping", "packing"
+    ]
+  },
+  {
+    "date": "2025-10-31",
+    "centerLetter": "L",
+    "outerLetters": ["E", "G", "A", "M", "I", "T"],
+    "validWords": [
+      "legal", "game", "gate", "mail", "male", "legit", "gamma",
+      "giggle", "metal", "limit", "gait", "late", "lame"
+    ]
+  },
+  {
+    "date": "2025-11-01",
+    "centerLetter": "T",
+    "outerLetters": ["E", "A", "R", "S", "I", "N"],
+    "validWords": [
+      "stain", "stare", "stint", "strain", "instant", "retain",
+      "trainer", "eastern", "stainer", "tarsi", "artist", "staring",
+      "antres"
+    ]
+  },
+  {
+    "date": "2025-11-02",
+    "centerLetter": "O",
+    "outerLetters": ["B", "A", "R", "D", "E", "S"],
+    "validWords": [
+      "board", "bored", "abode", "adobe", "brood", "robes",
+      "boards", "sabored", "abodes", "redboa"
+    ]
+  },
+  {
+    "date": "2025-11-03",
+    "centerLetter": "E",
+    "outerLetters": ["S", "T", "A", "M", "P", "L"],
+    "validWords": [
+      "steam", "steal", "metal", "plate", "plates", "sample",
+      "stealamp", "psalm", "stample"
+    ]
+  },
+  {
+    "date": "2025-11-04",
+    "centerLetter": "R",
+    "outerLetters": ["E", "C", "O", "V", "A", "L"],
+    "validWords": [
+      "cover", "carve", "crave", "lover", "reveal", "coval",
+      "corral", "vercal"
+    ]
+  },
+  {
+    "date": "2025-11-05",
+    "centerLetter": "S",
+    "outerLetters": ["H", "A", "R", "P", "E", "N"],
+    "validWords": [
+      "sharp", "share", "shaper", "harps", "parse", "snare",
+      "shapen", "harness"
+    ]
+  },
+  {
+    "date": "2025-11-06",
+    "centerLetter": "I",
+    "outerLetters": ["N", "G", "H", "T", "E", "R"],
+    "validWords": [
+      "night", "thing", "hiring", "ringite", "righten", "igniter",
+      "tiring", "nighter"
+    ]
+  },
+  {
+    "date": "2025-11-07",
+    "centerLetter": "C",
+    "outerLetters": ["L", "U", "S", "T", "E", "R"],
+    "validWords": [
+      "clue", "curse", "crust", "cluster", "lucster", "reclust",
+      "clutter", "sculpt"
+    ]
+  },
+  {
+    "date": "2025-11-08",
+    "centerLetter": "M",
+    "outerLetters": ["A", "R", "T", "I", "C", "O"],
+    "validWords": [
+      "mart", "mario", "matrix", "metric", "aromatic", "triomac",
+      "comitra", "trimac"
+    ]
+  }
+]
