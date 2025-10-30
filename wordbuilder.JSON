@@ -4,11 +4,7 @@
     "centerLetter": "A",
     "outerLetters": ["P", "I", "C", "K", "N", "Y"],
     "validWords": [
-      "pain", "pian", "pack", "pica", "pacy", "yack",
-      "knap", "nipa", "kina", "naik", "pyin", "panic", "capon",
-      "acini", "pavan", "pavin", "apian", "nippy", "kappa",
-      "kyack", "piancy", "panick", "catnip", "canopy",
-      "yapping", "napping", "capping", "packing"
+      "pain", "pack", "pica", "yack", "knap", "nipa", "panic", "capon", "apian", "kappa", "catnip", "canopy", "yapping", "napping", "capping", "packing", "panicky"
     ]
   },
   {
@@ -16,8 +12,7 @@
     "centerLetter": "L",
     "outerLetters": ["E", "G", "A", "M", "I", "T"],
     "validWords": [
-      "legal", "game", "gate", "mail", "male", "legit", "gamma",
-      "giggle", "metal", "limit", "gait", "late", "lame"
+      "legal", "mail", "male", "metal", "limit", "gait", "late", "lame", "algae", "eagle", "gleam", "image", "agile", "email", "magnet", "mingle", "tangle", "mallet", "gamete"
     ]
   },
   {
@@ -25,9 +20,7 @@
     "centerLetter": "T",
     "outerLetters": ["E", "A", "R", "S", "I", "N"],
     "validWords": [
-      "stain", "stare", "stint", "strain", "instant", "retain",
-      "trainer", "eastern", "stainer", "tarsi", "artist", "staring",
-      "antres"
+      "stain", "stare", "stint", "start", "state", "taste", "treat", "train", "trait", "taint", "titan", "arise", "aster", "nitre", "retain", "strain", "artist", "insert", "instate", "nastier", "retina", "satin", "tinier"
     ]
   },
   {
@@ -35,8 +28,7 @@
     "centerLetter": "O",
     "outerLetters": ["B", "A", "R", "D", "E", "S"],
     "validWords": [
-      "board", "bored", "abode", "adobe", "brood", "robes",
-      "boards", "sabored", "abodes", "redboa"
+      "board", "bored", "abode", "adobe", "brood", "robes", "boar", "bore", "doer", "odor", "robe", "sore", "boarder", "adorer", "broad", "bode", "door", "road", "robed", "sober", "soda"
     ]
   },
   {
@@ -44,8 +36,7 @@
     "centerLetter": "E",
     "outerLetters": ["S", "T", "A", "M", "P", "L"],
     "validWords": [
-      "steam", "steal", "metal", "plate", "plates", "sample",
-      "stealamp", "psalm", "stample"
+      "steam", "steal", "metal", "plate", "pleat", "slate", "stale", "tales", "tease", "teems", "ample", "lapse", "leapt", "least", "maple", "meats", "pales", "paste", "peals", "peats", "pelts", "petal", "pleas", "sepal", "septa", "spate", "teams"
     ]
   },
   {
@@ -53,8 +44,7 @@
     "centerLetter": "R",
     "outerLetters": ["E", "C", "O", "V", "A", "L"],
     "validWords": [
-      "cover", "carve", "crave", "lover", "reveal", "coval",
-      "corral", "vercal"
+      "cover", "carve", "crave", "lover", "rover", "racer", "coral", "clear", "cereal", "carver", "carol", "revel", "valor", "vocal", "caver", "corer", "coven", "laver", "carer"
     ]
   },
   {
@@ -62,8 +52,7 @@
     "centerLetter": "S",
     "outerLetters": ["H", "A", "R", "P", "E", "N"],
     "validWords": [
-      "sharp", "share", "shaper", "harps", "parse", "snare",
-      "shapen", "harness"
+      "sharp", "share", "shaper", "harps", "parse", "snare", "spare", "spear", "shear", "shape", "harsh", "ashen", "earns", "nears", "pears", "press", "snaps", "spans", "spars"
     ]
   },
   {
@@ -71,8 +60,7 @@
     "centerLetter": "I",
     "outerLetters": ["N", "G", "H", "T", "E", "R"],
     "validWords": [
-      "night", "thing", "hiring", "ringite", "righten", "igniter",
-      "tiring", "nighter"
+      "night", "thing", "right", "tight", "their", "there", "inert", "inter", "reign", "hinge", "inner", "niter", "tiger", "entry", "heir", "hint", "hire", "ring", "thin", "tiring"
     ]
   },
   {
@@ -80,8 +68,7 @@
     "centerLetter": "C",
     "outerLetters": ["L", "U", "S", "T", "E", "R"],
     "validWords": [
-      "clue", "curse", "crust", "cluster", "lucster", "reclust",
-      "clutter", "sculpt"
+      "curse", "crust", "cluster", "clutter", "cutler", "cruel", "cruet", "curl", "curt", "lure", "lute", "rule", "rust", "slur", "sure", "true", "crest", "cruse", "cuter", "lucre", "recur", "truce", "ulcer", "cleat"
     ]
   },
   {
@@ -89,8 +76,7 @@
     "centerLetter": "M",
     "outerLetters": ["A", "R", "T", "I", "C", "O"],
     "validWords": [
-      "mart", "mario", "matrix", "metric", "aromatic", "triomac",
-      "comitra", "trimac"
+      "mart", "matrix", "metric", "aroma", "actor", "armor", "carom", "comic", "cram", "marc", "mica", "moat", "omit", "riot", "taco", "tram", "trim", "trio", "atomic", "macro", "micro", "ratio"
     ]
   }
 ]
